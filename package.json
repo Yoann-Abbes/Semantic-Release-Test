@@ -1,0 +1,21 @@
+{
+  "name": "semantic-release-with-github-actions",
+  "version": "0.0.0-development",
+  "repository": "https://github.com/zeke/semantic-release-with-github-actions",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "semantic-release": "^19.0.2",
+    "husky": "^7.0.2",
+    "@commitlint/cli": "^13.2.1",
+    "@commitlint/config-conventional": "^13.2.0",
+    "@semantic-release/changelog": "^6.0.0",
+    "@semantic-release/exec": "^6.0.1",
+    "@semantic-release/git": "^10.0.0"
+  },
+  "scripts": {
+    "test": "jest test.js",
+    "release:dry": "HUSKY=0 semantic-release --dry-run",
+    "release": "HUSKY=0 semantic-release"
+  }
+}
