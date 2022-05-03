@@ -1,7 +1,7 @@
 {
   "name": "semantic-release-with-github-actions",
-  "version": "0.0.0-development",
-  "repository": "https://github.com/zeke/semantic-release-with-github-actions",
+  "version": "1.1.0",
+  "repository": "https://github.com/Yoann-Abbes/Semantic-Release-Test.git",
   "main": "index.js",
   "devDependencies": {
     "@commitlint/cli": "^13.2.1",
