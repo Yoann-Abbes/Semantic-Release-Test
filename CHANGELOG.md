@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v2.0.1...v2.1.0) (2022-05-03)
+
+
+### Features
+
+* add sub ([5034f18](https://github.com/Yoann-Abbes/Semantic-Release-Test/commit/5034f18918e9232233047a48f5d1500a6ddbfcd5))
+
 ## [2.0.1](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v2.0.0...v2.0.1) (2022-05-03)
 
 
