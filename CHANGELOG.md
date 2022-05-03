@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v1.2.0...v1.3.0) (2022-05-03)
+
+
+### Bug Fixes
+
+* readme ([2c6a15f](https://github.com/Yoann-Abbes/Semantic-Release-Test/commit/2c6a15fed006d02c159557627ca3d7944f8f48f2))
+
+
+### Features
+
+* wrong test ([7bbc23a](https://github.com/Yoann-Abbes/Semantic-Release-Test/commit/7bbc23aa6e35359409eda0ed95ddf8f5889fdc9f))
+
 # [1.2.0](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v1.1.0...v1.2.0) (2022-05-03)
 
 
