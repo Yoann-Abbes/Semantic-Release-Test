@@ -22,7 +22,8 @@
           { "type": "chore", "release": "patch" },
           { "type": "style", "release": "patch" },
           { "type": "revert", "release": "patch" },
-          { "scope": "no-release", "release": false }
+          { "scope": "no-release", "release": false },
+          { "scope": "wip", "release": false }
         ]
       }
     ],
