@@ -9,11 +9,12 @@
     "@semantic-release/changelog": "^6.0.0",
     "@semantic-release/exec": "^6.0.1",
     "@semantic-release/git": "^10.0.0",
-    "husky": "^7.0.2",
+    "husky": "^7.0.4",
     "jest": "^25.1.0",
     "semantic-release": "^19.0.2"
   },
   "scripts": {
+    "postinstall": "husky install",
     "test": "jest test.js",
     "release:dry": "HUSKY=0 semantic-release --dry-run",
     "release": "HUSKY=0 semantic-release"
