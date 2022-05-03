@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v2.0.0...v2.0.1) (2022-05-03)
+
+
+### Bug Fixes
+
+* typo ([e422bec](https://github.com/Yoann-Abbes/Semantic-Release-Test/commit/e422bece4c4c7fa4ca5dd7da3a126ab34d64e6b5))
+
 # [2.0.0](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v1.3.0...v2.0.0) (2022-05-03)
 
 
