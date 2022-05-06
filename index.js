@@ -7,4 +7,4 @@ function sub (a, b) {
 }
 
 
-module.exports = { add, sub, mul }
+module.exports = { add, sub }
