@@ -1,3 +1,18 @@
+# [4.0.0](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v3.2.0...v4.0.0) (2022-05-06)
+
+
+### Bug Fixes
+
+* remove export ([5982021](https://github.com/Yoann-Abbes/Semantic-Release-Test/commit/5982021aeec428cd87d864ada18a5f56b9c9827a))
+
+
+### Features
+
+* add mul feature ([6dc601f](https://github.com/Yoann-Abbes/Semantic-Release-Test/commit/6dc601f9c97327f5c305816d487ed3286fee941b))
+* breaking change add feature ([a8ddd68](https://github.com/Yoann-Abbes/Semantic-Release-Test/commit/a8ddd68083a76c4420937c0ede3aa617de40b7a1))
+* breaking change add feature ([c5c3627](https://github.com/Yoann-Abbes/Semantic-Release-Test/commit/c5c36279e8d702fcf780acfc47371887ee897812))
+* two commit ([b1eb697](https://github.com/Yoann-Abbes/Semantic-Release-Test/commit/b1eb6979bc42e545a69f29ac409fd91c63607e84))
+
 # [3.2.0](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v3.1.0...v3.2.0) (2022-05-06)
 
 

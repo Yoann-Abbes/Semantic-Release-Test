@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-with-github-actions",
-  "version": "3.2.0",
+  "version": "4.0.0",
   "repository": "https://github.com/Yoann-Abbes/Semantic-Release-Test.git",
   "main": "index.js",
   "devDependencies": {
