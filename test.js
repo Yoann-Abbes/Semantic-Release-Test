@@ -1,6 +1,5 @@
 const { add } = require('.')
 const { sub } = require('.')
-const { mul } = require('.')
 
 test('add', () => {
   expect(add(1, 2)).toEqual(3)
