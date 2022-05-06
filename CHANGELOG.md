@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v2.1.0...v2.2.0) (2022-05-06)
+
+
+### Features
+
+* Renaming step  ([#14](https://github.com/Yoann-Abbes/Semantic-Release-Test/issues/14)) ([fb3f563](https://github.com/Yoann-Abbes/Semantic-Release-Test/commit/fb3f5635d67da5f95b547dc8d2d9e47c5e8442b7))
+
 # [2.1.0](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v2.0.1...v2.1.0) (2022-05-03)
 
 
