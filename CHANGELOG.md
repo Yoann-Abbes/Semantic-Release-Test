@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v3.1.0...v3.2.0) (2022-05-06)
+
+
+### Features
+
+* Add feature ([#18](https://github.com/Yoann-Abbes/Semantic-Release-Test/issues/18)) ([632a5a4](https://github.com/Yoann-Abbes/Semantic-Release-Test/commit/632a5a4431f6a8aa02d35a8981d215e28c183c73))
+
 # [3.1.0](https://github.com/Yoann-Abbes/Semantic-Release-Test/compare/v3.0.0...v3.1.0) (2022-05-06)
 
 
