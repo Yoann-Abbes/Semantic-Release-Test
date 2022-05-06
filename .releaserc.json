@@ -24,7 +24,15 @@
           { "type": "revert", "release": "patch" },
           { "scope": "no-release", "release": false },
           { "scope": "wip", "release": false }
-        ]
+        ],
+        "parserOpts": {
+          "noteKeywords": [
+            "BREAKING CHANGE",
+            "BREAKING CHANGES",
+            "breaking change",
+            "breaking changes"
+          ]
+        }
       }
     ],
     "@semantic-release/release-notes-generator",
